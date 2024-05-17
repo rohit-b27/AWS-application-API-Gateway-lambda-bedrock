@@ -1,0 +1,1 @@
+# AWS-application-API-Gateway-lambda-bedrock
